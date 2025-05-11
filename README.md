@@ -1,2 +1,2 @@
 # GEE_course_old
-Scripts of GEE course
+Scripts of GEE
