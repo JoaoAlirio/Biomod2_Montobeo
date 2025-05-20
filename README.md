@@ -1,2 +1,3 @@
-# GEE_course_old
-Scripts of GEE
+# R script to run montobeo species in Biomod2
+
+
