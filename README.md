@@ -1,5 +1,8 @@
 # R script to run montobeo species in Biomod2
 
+Using the montesinho_biomod2.R script (available in the archives of this repository).
+The script is using the 'Cervus elaphus' species but can be used with any Montobeo species, such as:
+Accipiter_nisus (17 occurrences), Cervus_elaphus (94); Sylvia_atricapilla (161); Pelophylax_perezi (304)
 
 ### Species presence coordinates
 
@@ -30,6 +33,4 @@ species_df <- data.frame(
 plot(region); points(species_df)
 
 ```
-examples of other species (occurrences)
 
-Accipiter_nisus (17), Cervus_elaphus (94); Sylvia_atricapilla (161); Pelophylax_perezi (304)
