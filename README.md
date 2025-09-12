@@ -34,5 +34,7 @@ species_df <- data.frame(
 
 plot(region); points(species_df)
 
+...
+
 ```
 
