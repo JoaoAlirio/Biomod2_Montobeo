@@ -5,7 +5,6 @@ The script is using the 'Cervus elaphus' species but can be used with any Montob
 Accipiter_nisus (17 occurrences), Cervus_elaphus (94); Sylvia_atricapilla (161); Pelophylax_perezi (304)
 
 
-
 ### Species presence coordinates
 
 You can download the vector file with the <a href="https://drive.google.com/uc?export=download&id=1ohSr_InDlzXThOP3GuJrV5B14aYqv73I">species occurrences</a> modeled in MontObEO (3 MB).
